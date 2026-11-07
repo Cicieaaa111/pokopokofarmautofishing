@@ -1,0 +1,16 @@
+{
+  "visual_thresh": 4.0,
+  "bobber_rx": 163,
+  "bobber_ry": 116,
+  "cast_mute_sec": 3.5,
+  "reel_wait_sec": 2.1,
+  "timeout_sec": 8.0,
+  "reel_to_bag_sec": 1.1,
+  "bag_to_cast_sec": 1.0,
+  "detect_strategy": "visual",
+  "click_mode": "osc",
+  "auto_track_bobber": false,
+  "threshold": 0.0877,
+  "only_vrc_audio": true,
+  "verify_splash": true
+}
